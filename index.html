@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0b3d91">
+<title>Jogos 26.27</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="faixa">
+  <div>
+    <h1>Jogos 26.27</h1>
+    <p class="sub">Calendário de jogos · 2026/27</p>
+  </div>
+</header>
+
+<main>
+  <div>
+    <section class="resumo" id="resumo" hidden>
+      <h2>Já convocado</h2>
+      <ul id="convocados"></ul>
+    </section>
+
+    <button id="anteriores" class="btn sec topo-btn" hidden></button>
+    <section id="jogos" aria-live="polite"></section>
+
+    <p class="nota">Ao tocar em <strong>Convocado</strong> abre-se o Google Calendar com o jogo preenchido; basta confirmar em «Guardar». O evento começa 2 h antes do jogo (1 h de viagem + 1 h de antecedência) e acaba 1 h depois do fim do jogo (1 h 30), para o regresso.</p>
+    <p class="nota">Horários copiados do calendário oficial da AFL (1.ª fase): confirme sempre no site oficial, porque podem mudar. Esta página não recolhe nem envia dados; as marcações ficam só neste telemóvel.</p>
+  </div>
+</main>
+
+<script src="jogos.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

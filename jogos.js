@@ -1,0 +1,562 @@
+window.JOGOS = [
+ {
+  "id": "366.05.005.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 1,
+  "inicio": "2026-10-17T09:00",
+  "emCasa": false,
+  "adversario": "3F",
+  "campo": "Campo Parque Jogos S J Brito"
+ },
+ {
+  "id": "366.10.003.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 1,
+  "inicio": "2026-10-17T10:30",
+  "emCasa": false,
+  "adversario": "Salesianos Estoril",
+  "campo": "Estádio Domingos Sávio | Estoril"
+ },
+ {
+  "id": "366.05.013.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 2,
+  "inicio": "2026-10-24T09:00",
+  "emCasa": true,
+  "adversario": "Santa Maria \"B\"",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.10.018.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 3,
+  "inicio": "2026-10-31T09:00",
+  "emCasa": false,
+  "adversario": "Cascais",
+  "campo": "Estádio Municipal Dramático Cascais"
+ },
+ {
+  "id": "366.05.020.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 3,
+  "inicio": "2026-10-31T10:30",
+  "emCasa": false,
+  "adversario": "Cultural \"B\"",
+  "campo": "Academia Jogador - Campo 1"
+ },
+ {
+  "id": "366.05.028.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 4,
+  "inicio": "2026-11-07T09:00",
+  "emCasa": true,
+  "adversario": "Tenente Valdez \"B\"",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.10.026.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 4,
+  "inicio": "2026-11-07T12:00",
+  "emCasa": true,
+  "adversario": "Estoril AC \"A\"",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.05.035.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 5,
+  "inicio": "2026-11-14T10:30",
+  "emCasa": false,
+  "adversario": "Alta Lisboa \"B\"",
+  "campo": "Complexo Desportivo Alto Lumiar - Campo 1"
+ },
+ {
+  "id": "366.10.033.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 5,
+  "inicio": "2026-11-14T11:00",
+  "emCasa": false,
+  "adversario": "CD Marista",
+  "campo": "Campo Colégio Marista"
+ },
+ {
+  "id": "366.05.043.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 6,
+  "inicio": "2026-11-21T09:00",
+  "emCasa": true,
+  "adversario": "Estrelas SJB",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.10.041.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 6,
+  "inicio": "2026-11-21T12:00",
+  "emCasa": true,
+  "adversario": "Sport Túlias",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.05.050.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 7,
+  "inicio": "2026-11-28T10:30",
+  "emCasa": false,
+  "adversario": "Col. S. J. Brito",
+  "campo": "Campo Colégio São João de Brito"
+ },
+ {
+  "id": "366.10.049.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 7,
+  "inicio": "2026-11-28T12:00",
+  "emCasa": true,
+  "adversario": "Estoril Praia \"A\"",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.10.058.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 8,
+  "inicio": "2026-12-05T09:00",
+  "emCasa": false,
+  "adversario": "Fontainhas",
+  "campo": "Campo Abel Viegas Lopes (Fontainhas)"
+ },
+ {
+  "id": "366.05.058.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 8,
+  "inicio": "2026-12-05T09:00",
+  "emCasa": true,
+  "adversario": "Despertar",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.05.065.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 9,
+  "inicio": "2026-12-12T10:30",
+  "emCasa": false,
+  "adversario": "Benfica \"B\"",
+  "campo": "Campo Nº2 Estádio Francisco Lázaro"
+ },
+ {
+  "id": "366.10.066.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 9,
+  "inicio": "2026-12-12T12:00",
+  "emCasa": true,
+  "adversario": "Academia Alcoitão \"A\"",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.10.075.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 10,
+  "inicio": "2026-12-19T10:30",
+  "emCasa": false,
+  "adversario": "Talaide",
+  "campo": "Campo Fernando Sabido"
+ },
+ {
+  "id": "366.05.073.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 10,
+  "inicio": "2026-12-19T10:30",
+  "emCasa": true,
+  "adversario": "EFSDB \"B\"",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.05.081.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 11,
+  "inicio": "2027-01-09T10:30",
+  "emCasa": true,
+  "adversario": "Vitória",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.10.083.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 11,
+  "inicio": "2027-01-09T12:00",
+  "emCasa": true,
+  "adversario": "Tires",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.10.092.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 12,
+  "inicio": "2027-01-16T10:30",
+  "emCasa": false,
+  "adversario": "Leões Porto Salvo \"B\"",
+  "campo": "Campo de Futebol da Laje"
+ },
+ {
+  "id": "366.05.090.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 12,
+  "inicio": "2027-01-16T10:30",
+  "emCasa": false,
+  "adversario": "Sporting \"B\"",
+  "campo": "Estádio Universitário de Lisboa (Campo 6)"
+ },
+ {
+  "id": "366.10.100.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 13,
+  "inicio": "2027-01-23T12:00",
+  "emCasa": true,
+  "adversario": "ASS Torre \"A\"",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.10.109.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 14,
+  "inicio": "2027-01-30T10:00",
+  "emCasa": false,
+  "adversario": "Malveira Serra",
+  "campo": "Campo 22 de Março"
+ },
+ {
+  "id": "366.05.107.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 14,
+  "inicio": "2027-01-30T10:30",
+  "emCasa": false,
+  "adversario": "Caneças \"B\"",
+  "campo": "Campo Da Lapa"
+ },
+ {
+  "id": "366.05.115.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 15,
+  "inicio": "2027-02-06T09:00",
+  "emCasa": true,
+  "adversario": "Palmense \"B\"",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.10.117.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 15,
+  "inicio": "2027-02-06T10:30",
+  "emCasa": true,
+  "adversario": "Carcavelos",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.05.125.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 16,
+  "inicio": "2027-02-13T09:00",
+  "emCasa": true,
+  "adversario": "3F",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.10.123.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 16,
+  "inicio": "2027-02-13T12:00",
+  "emCasa": true,
+  "adversario": "Salesianos Estoril",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.05.133.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 17,
+  "inicio": "2027-02-20T09:00",
+  "emCasa": false,
+  "adversario": "Santa Maria \"B\"",
+  "campo": "Complexo Lúdico União D. R. Santa Maria"
+ },
+ {
+  "id": "366.05.140.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 18,
+  "inicio": "2027-02-27T09:00",
+  "emCasa": true,
+  "adversario": "Cultural \"B\"",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.10.138.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 18,
+  "inicio": "2027-02-27T12:00",
+  "emCasa": true,
+  "adversario": "Cascais",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.10.146.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 19,
+  "inicio": "2027-03-06T10:30",
+  "emCasa": false,
+  "adversario": "Estoril AC \"A\"",
+  "campo": "Campo Estoril AC (R. Vale Sta. Rita)"
+ },
+ {
+  "id": "366.05.148.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 19,
+  "inicio": "2027-03-06T11:00",
+  "emCasa": false,
+  "adversario": "Tenente Valdez \"B\"",
+  "campo": "Parque Jogos Cer Tenente Valdez"
+ },
+ {
+  "id": "366.05.155.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 20,
+  "inicio": "2027-03-13T09:00",
+  "emCasa": true,
+  "adversario": "Alta Lisboa \"B\"",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.10.153.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 20,
+  "inicio": "2027-03-13T10:30",
+  "emCasa": true,
+  "adversario": "CD Marista",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.10.161.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 21,
+  "inicio": "2027-03-20T09:00",
+  "emCasa": false,
+  "adversario": "Sport Túlias",
+  "campo": "Complexo Desportivo da Abóboda"
+ },
+ {
+  "id": "366.05.163.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 21,
+  "inicio": "2027-03-20T10:45",
+  "emCasa": false,
+  "adversario": "Estrelas SJB",
+  "campo": "Campo Estrelas S J Brito"
+ },
+ {
+  "id": "366.10.169.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 22,
+  "inicio": "2027-04-03T10:30",
+  "emCasa": false,
+  "adversario": "Estoril Praia \"A\"",
+  "campo": "Centro de Treino de Formação Desportiva N3"
+ },
+ {
+  "id": "366.05.170.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 22,
+  "inicio": "2027-04-03T10:30",
+  "emCasa": true,
+  "adversario": "Col. S. J. Brito",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.05.178.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 23,
+  "inicio": "2027-04-10T09:00",
+  "emCasa": false,
+  "adversario": "Despertar",
+  "campo": "Campo Parque Urbano 25 Abril"
+ },
+ {
+  "id": "366.10.178.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 23,
+  "inicio": "2027-04-10T12:00",
+  "emCasa": true,
+  "adversario": "Fontainhas",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.05.185.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 24,
+  "inicio": "2027-04-17T09:00",
+  "emCasa": true,
+  "adversario": "Benfica \"B\"",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.10.186.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 24,
+  "inicio": "2027-04-17T12:00",
+  "emCasa": false,
+  "adversario": "Academia Alcoitão \"A\"",
+  "campo": "Campo do \"Decathlon Cascais\""
+ },
+ {
+  "id": "366.05.193.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 25,
+  "inicio": "2027-04-24T09:00",
+  "emCasa": false,
+  "adversario": "EFSDB \"B\"",
+  "campo": "Complexo Desportivo Bairro Boavista"
+ },
+ {
+  "id": "366.10.195.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 25,
+  "inicio": "2027-04-24T12:00",
+  "emCasa": true,
+  "adversario": "Talaide",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.10.203.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 26,
+  "inicio": "2027-05-01T09:30",
+  "emCasa": false,
+  "adversario": "Tires",
+  "campo": "Campo de Futebol José Rodrigues"
+ },
+ {
+  "id": "366.05.201.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 26,
+  "inicio": "2027-05-01T10:00",
+  "emCasa": false,
+  "adversario": "Vitória",
+  "campo": "Campo do Vitória"
+ },
+ {
+  "id": "366.10.212.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 27,
+  "inicio": "2027-05-08T09:00",
+  "emCasa": true,
+  "adversario": "Leões Porto Salvo \"B\"",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.05.210.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 27,
+  "inicio": "2027-05-08T09:00",
+  "emCasa": true,
+  "adversario": "Sporting \"B\"",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.10.220.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 28,
+  "inicio": "2027-05-15T10:30",
+  "emCasa": false,
+  "adversario": "ASS Torre \"A\"",
+  "campo": "Campo Alfredo Pinheiro-BºTorre"
+ },
+ {
+  "id": "366.10.229.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 29,
+  "inicio": "2027-05-22T09:00",
+  "emCasa": true,
+  "adversario": "Malveira Serra",
+  "campo": "Campo do Outeiro (Carenque)"
+ },
+ {
+  "id": "366.05.227.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 29,
+  "inicio": "2027-05-22T09:00",
+  "emCasa": true,
+  "adversario": "Caneças \"B\"",
+  "campo": "Campo das Salésias (Restelo)"
+ },
+ {
+  "id": "366.05.235.0",
+  "equipa": "G",
+  "serie": "5",
+  "jornada": 30,
+  "inicio": "2027-05-29T09:30",
+  "emCasa": false,
+  "adversario": "Palmense \"B\"",
+  "campo": "Campo José Ramos"
+ },
+ {
+  "id": "366.10.237.0",
+  "equipa": "A",
+  "serie": "10",
+  "jornada": 30,
+  "inicio": "2027-05-29T10:00",
+  "emCasa": false,
+  "adversario": "Carcavelos",
+  "campo": "Campo Quinta Nova, Nº 2"
+ }
+];
