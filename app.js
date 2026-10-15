@@ -1,7 +1,7 @@
 // Calendário de jogos Sub-11 2026/27
 // Escolhe-se o jogo para que o atleta foi convocado -> abre o Google Calendar já preenchido.
-// O evento no calendário cobre: viagem de ida (1 h) + chegada ao campo 1 h antes do jogo + jogo (1 h 30) + regresso (1 h)
-const VIAGEM_MIN = 60, CHEGADA_MIN = 60, JOGO_MIN = 90, DEPOIS_MIN = 60;
+// O evento no calendário cobre: viagem de ida (45 min) + chegada ao campo 1 h antes do jogo + jogo (1 h 30) + viagem de regresso (45 min)
+const VIAGEM_MIN = 45, CHEGADA_MIN = 60, JOGO_MIN = 90, DEPOIS_MIN = 45;
 const ANTES_MIN = VIAGEM_MIN + CHEGADA_MIN;
 const CHAVE = "convocados-v1";   // localStorage: { idJogo: true }
 
