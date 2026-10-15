@@ -47,7 +47,7 @@ const stamp = (d) => `${d.getFullYear()}${pad(d.getMonth() + 1)}${pad(d.getDate(
 
 function titulo(g) {
   const casa = g.emCasa ? "(casa)" : "(fora)";
-  return `Jogo Sub-11 · Equipa ${g.equipa} vs ${g.adversario} ${casa}`;
+  return `Jogo Sub-11 · ${pad(g.d.getHours())}h${pad(g.d.getMinutes())} - Equipa ${g.equipa} vs ${g.adversario} ${casa}`;
 }
 function detalhes(g) {
   return `Jogo às ${hhmm(g.d)} · sair às ${hhmm(inicioEvento(g))}, chegar ao campo às ${hhmm(somaMin(g.d, -CHEGADA_MIN))}, ` +
