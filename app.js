@@ -83,7 +83,10 @@ function conv(g) { return !!estado[g.id]; }
 
 function textoViagem(g) {
   const est = (window.VIAGEM || {})[g.campo];
-  if (def.modo === "estimativa" && est != null) return `Viagem ≈ ${viagemMin(g)} min (a partir do ponto de partida do grupo)`;
+  if (def.modo === "estimativa" && est != null) {
+    const extra = def.ajuste ? ` (carro ${est} min ${def.ajuste > 0 ? "+" : "−"} ajuste ${Math.abs(def.ajuste)} min)` : " de carro";
+    return `Viagem ≈ ${viagemMin(g)} min${extra}, a partir do ponto de partida do grupo`;
+  }
   return `Viagem ${viagemMin(g)} min (definida por si)`;
 }
 
