@@ -59,3 +59,14 @@ main { padding-block: 16px; }
 .semana-bloco { margin-bottom: 8px; }
 .semana-bloco h2 { font-size: .85rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 22px 0 8px; }
 .topo-btn { width: 100%; margin-bottom: 4px; }
+.barra { margin-bottom: 12px; }
+.def { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin-bottom: 16px; }
+.def h2 { font-size: 1.05rem; margin: 0 0 4px; }
+.def form { display: flex; flex-direction: column; gap: 12px; margin-top: 10px; }
+.def fieldset { border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.def legend { padding: 0 6px; font-weight: 600; font-size: .9rem; }
+.def .op { display: flex; gap: 10px; align-items: flex-start; font-size: .92rem; }
+.def .op input { margin-top: 4px; }
+.def .campo { display: flex; flex-direction: column; gap: 4px; font-size: .88rem; color: var(--muted); }
+.def input[type=number] { font: inherit; padding: 10px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); color: var(--txt); width: 8rem; }
+.def input:focus-visible { outline: 3px solid var(--brand); outline-offset: 2px; }

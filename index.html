@@ -8,7 +8,7 @@
 <meta name="robots" content="noindex, nofollow">
 <meta name="theme-color" content="#0b3d91">
 <title>Jogos 26.27</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=20261016">
 </head>
 <body>
 <header class="faixa">
@@ -20,6 +20,32 @@
 
 <main>
   <div>
+    <div class="barra"><button id="abrir-def" class="btn sec" type="button">Definições de viagem</button></div>
+
+    <section id="definicoes" class="def" hidden aria-labelledby="def-titulo">
+      <h2 id="def-titulo">Antes de começar</h2>
+      <p class="meta">Escolha como calcular a viagem e quanto tempo antes quer chegar ao campo. Fica guardado só neste telemóvel.</p>
+      <form id="def-form">
+        <fieldset>
+          <legend>Viagem (ida e regresso)</legend>
+          <label class="op"><input type="radio" name="modo" id="def-modo-est" checked>
+            <span>Usar a estimativa de cada campo, a partir do ponto de partida do grupo (sem trânsito)</span></label>
+          <label class="campo">Ajuste à estimativa (minutos, pode ser negativo)
+            <input type="number" id="def-ajuste" inputmode="numeric" min="-30" max="60" step="5" value="0"></label>
+          <label class="op"><input type="radio" name="modo" id="def-modo-fixo">
+            <span>Usar sempre o mesmo tempo</span></label>
+          <label class="campo">Tempo fixo (minutos)
+            <input type="number" id="def-fixo" inputmode="numeric" min="0" max="180" step="5" value="45"></label>
+        </fieldset>
+        <label class="campo">Chegar ao campo quanto tempo antes do jogo (minutos)
+          <input type="number" id="def-antec" inputmode="numeric" min="0" max="180" step="5" value="60"></label>
+        <div class="acoes">
+          <button type="submit" id="def-continuar" class="btn">Guardar</button>
+          <button type="button" id="def-cancelar" class="btn sec">Cancelar</button>
+        </div>
+      </form>
+    </section>
+
     <section class="resumo" id="resumo" hidden>
       <h2>Já convocado</h2>
       <ul id="convocados"></ul>
@@ -28,12 +54,13 @@
     <button id="anteriores" class="btn sec topo-btn" hidden></button>
     <section id="jogos" aria-live="polite"></section>
 
-    <p class="nota">Ao tocar em <strong>Convocado</strong> abre-se o Google Calendar com o jogo preenchido; basta confirmar em «Guardar». O evento começa 1 h 45 antes do jogo (45 min de viagem + 1 h de antecedência) e acaba 45 min depois do fim do jogo (1 h 30), para o regresso.</p>
+    <p class="nota">Ao tocar em <strong>Convocado</strong> abre-se o Google Calendar com o jogo preenchido; basta confirmar em «Guardar». O evento começa na hora de saída (viagem + antecedência no campo) e acaba depois da viagem de regresso. Pode mudar estes tempos em «Definições de viagem».</p>
     <p class="nota">Horários copiados do calendário oficial da AFL (1.ª fase): confirme sempre no site oficial, porque podem mudar. Esta página não recolhe nem envia dados; as marcações ficam só neste telemóvel.</p>
   </div>
 </main>
 
-<script src="jogos.js"></script>
-<script src="app.js"></script>
+<script src="jogos.js?v=20261016"></script>
+<script src="viagem.js?v=20261016"></script>
+<script src="app.js?v=20261016"></script>
 </body>
 </html>
