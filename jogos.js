@@ -8,7 +8,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "3F",
   "campo": "Campo Parque Jogos S J Brito",
-  "mapa": "Parque de Jogos São João de Brito, Avenida do Brasil, Lisboa"
+  "mapa": "Complexo Desportivo Municipal São João de Brito, Lisboa"
  },
  {
   "id": "366.10.003.0",
@@ -19,7 +19,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Salesianos Estoril",
   "campo": "Estádio Domingos Sávio | Estoril",
-  "mapa": "Estádio Domingos Sávio, Rua de São Domingos Sávio, Estoril, Cascais"
+  "mapa": "Salesianos do Estoril, Estoril"
  },
  {
   "id": "366.05.013.0",
@@ -30,7 +30,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Santa Maria \"B\"",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.10.018.0",
@@ -41,7 +41,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Cascais",
   "campo": "Estádio Municipal Dramático Cascais",
-  "mapa": "Estádio Municipal Dramático de Cascais, Avenida Doutor Manuel Ricardo Espírito Santo, Cascais"
+  "mapa": "Estádio Municipal Dramático Cascais, Cascais"
  },
  {
   "id": "366.05.020.0",
@@ -52,7 +52,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Cultural \"B\"",
   "campo": "Academia Jogador - Campo 1",
-  "mapa": "Academia Jogador, Odivelas"
+  "mapa": "Campus do Jogador - Sindicato dos Jogadores Profissionais de Futebol, Odivelas"
  },
  {
   "id": "366.05.028.0",
@@ -63,7 +63,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Tenente Valdez \"B\"",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.10.026.0",
@@ -74,7 +74,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Estoril AC \"A\"",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.05.035.0",
@@ -85,7 +85,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Alta Lisboa \"B\"",
   "campo": "Complexo Desportivo Alto Lumiar - Campo 1",
-  "mapa": "Complexo Desportivo do Alto do Lumiar, Lisboa"
+  "mapa": "Complexo Desportivo Municipal do Alto do Lumiar, Lisboa"
  },
  {
   "id": "366.10.033.0",
@@ -96,7 +96,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "CD Marista",
   "campo": "Campo Colégio Marista",
-  "mapa": "Colégio Marista de Carcavelos, Avenida dos Maristas, Carcavelos"
+  "mapa": "Colégio Marista de Carcavelos"
  },
  {
   "id": "366.05.043.0",
@@ -107,7 +107,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Estrelas SJB",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.10.041.0",
@@ -118,7 +118,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Sport Túlias",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.05.050.0",
@@ -129,7 +129,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Col. S. J. Brito",
   "campo": "Campo Colégio São João de Brito",
-  "mapa": "Colégio de São João de Brito, Estrada da Torre, Lumiar, Lisboa"
+  "mapa": "Colégio São João de Brito, Lisboa"
  },
  {
   "id": "366.10.049.0",
@@ -140,7 +140,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Estoril Praia \"A\"",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.10.058.0",
@@ -151,7 +151,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Fontainhas",
   "campo": "Campo Abel Viegas Lopes (Fontainhas)",
-  "mapa": "Campo Abel Viegas Lopes, Fontainhas, Cascais"
+  "mapa": "Campo Abel Viegas Lopes, Alcabideche"
  },
  {
   "id": "366.05.058.0",
@@ -162,7 +162,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Despertar",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.05.065.0",
@@ -173,7 +173,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Benfica \"B\"",
   "campo": "Campo Nº2 Estádio Francisco Lázaro",
-  "mapa": "Estádio Francisco Lázaro, Rua Doutor Cunha Seixas, Benfica, Lisboa"
+  "mapa": "Estádio Francisco Lázaro, Lisboa"
  },
  {
   "id": "366.10.066.0",
@@ -184,7 +184,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Academia Alcoitão \"A\"",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.10.075.0",
@@ -195,7 +195,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Talaide",
   "campo": "Campo Fernando Sabido",
-  "mapa": "Campo Fernando Sabido, Talaíde, São Domingos de Rana"
+  "mapa": "GSMD Talaíde - Campo Fernando Sabido, São Domingos de Rana"
  },
  {
   "id": "366.05.073.0",
@@ -206,7 +206,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "EFSDB \"B\"",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.05.081.0",
@@ -217,7 +217,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Vitória",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.10.083.0",
@@ -228,7 +228,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Tires",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.10.092.0",
@@ -239,7 +239,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Leões Porto Salvo \"B\"",
   "campo": "Campo de Futebol da Laje",
-  "mapa": "Campo de Futebol da Laje, Porto Salvo, Oeiras"
+  "mapa": "Campo de futebol da Lage Leões de Porto Salvo, Porto Salvo"
  },
  {
   "id": "366.05.090.0",
@@ -250,7 +250,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Sporting \"B\"",
   "campo": "Estádio Universitário de Lisboa (Campo 6)",
-  "mapa": "Estádio Universitário de Lisboa, Avenida General Norton de Matos, Lisboa"
+  "mapa": "Estádio Universitário de Lisboa, Lisboa"
  },
  {
   "id": "366.10.100.0",
@@ -261,7 +261,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "ASS Torre \"A\"",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.10.109.0",
@@ -272,7 +272,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Malveira Serra",
   "campo": "Campo 22 de Março",
-  "mapa": "Campo 22 de Março, Malveira da Serra, Cascais"
+  "mapa": "Grupo Desportivo da Malveira da Serra, Malveira da Serra"
  },
  {
   "id": "366.05.107.0",
@@ -283,7 +283,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Caneças \"B\"",
   "campo": "Campo Da Lapa",
-  "mapa": "Campo da Lapa, Rua do Campo da Bola, Caneças, Odivelas"
+  "mapa": "Campo da Lapa, Caneças"
  },
  {
   "id": "366.05.115.0",
@@ -294,7 +294,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Palmense \"B\"",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.10.117.0",
@@ -305,7 +305,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Carcavelos",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.05.125.0",
@@ -316,7 +316,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "3F",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.10.123.0",
@@ -327,7 +327,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Salesianos Estoril",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.05.133.0",
@@ -338,7 +338,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Santa Maria \"B\"",
   "campo": "Complexo Lúdico União D. R. Santa Maria",
-  "mapa": "Complexo Lúdico União D. R. Santa Maria, Odivelas"
+  "mapa": "União Desportiva e Recreativa (UDR) Santa Maria, Odivelas"
  },
  {
   "id": "366.05.140.0",
@@ -349,7 +349,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Cultural \"B\"",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.10.138.0",
@@ -360,7 +360,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Cascais",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.10.146.0",
@@ -371,7 +371,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Estoril AC \"A\"",
   "campo": "Campo Estoril AC (R. Vale Sta. Rita)",
-  "mapa": "Estoril Atlético Clube, Largo Amália Rodrigues, Estoril"
+  "mapa": "Estoril Atlético Clube, Estoril"
  },
  {
   "id": "366.05.148.0",
@@ -382,7 +382,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Tenente Valdez \"B\"",
   "campo": "Parque Jogos Cer Tenente Valdez",
-  "mapa": "Parque de Jogos CER Tenente Valdez, Paia, Odivelas"
+  "mapa": "CER Tenente Valdez, Pontinha"
  },
  {
   "id": "366.05.155.0",
@@ -393,7 +393,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Alta Lisboa \"B\"",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.10.153.0",
@@ -404,7 +404,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "CD Marista",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.10.161.0",
@@ -415,7 +415,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Sport Túlias",
   "campo": "Complexo Desportivo da Abóboda",
-  "mapa": "Complexo Desportivo da Abóboda, São Domingos de Rana, Cascais"
+  "mapa": "Complexo Desportivo e Municipal da Abóboda, São Domingos de Rana"
  },
  {
   "id": "366.05.163.0",
@@ -426,7 +426,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Estrelas SJB",
   "campo": "Campo Estrelas S J Brito",
-  "mapa": "Escola Básica de São João de Brito, Rua Lopes de Mendonça, Lisboa"
+  "mapa": "Escola Básica São João de Brito, Lisboa"
  },
  {
   "id": "366.10.169.0",
@@ -437,7 +437,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Estoril Praia \"A\"",
   "campo": "Centro de Treino de Formação Desportiva N3",
-  "mapa": "Centro de Treino de Formação Desportiva, Estoril, Cascais"
+  "mapa": "Estoril Praia Formação, Estoril"
  },
  {
   "id": "366.05.170.0",
@@ -448,7 +448,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Col. S. J. Brito",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.05.178.0",
@@ -459,7 +459,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Despertar",
   "campo": "Campo Parque Urbano 25 Abril",
-  "mapa": "Parque Urbano 25 de Abril, Casal de Cambra, Sintra"
+  "mapa": "Parque Urbano 25 de Abril de 1974, Casal de Cambra"
  },
  {
   "id": "366.10.178.0",
@@ -470,7 +470,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Fontainhas",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.05.185.0",
@@ -481,7 +481,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Benfica \"B\"",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.10.186.0",
@@ -492,7 +492,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Academia Alcoitão \"A\"",
   "campo": "Campo do \"Decathlon Cascais\"",
-  "mapa": "Decathlon Cascais, Avenida Brigadeiro Victor Novais Gonçalves, Alcabideche"
+  "mapa": "Decathlon Cascais, Alcabideche"
  },
  {
   "id": "366.05.193.0",
@@ -514,7 +514,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Talaide",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.10.203.0",
@@ -525,7 +525,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Tires",
   "campo": "Campo de Futebol José Rodrigues",
-  "mapa": "Campo de Futebol José Rodrigues, Tires, Cascais"
+  "mapa": "Campo Futebol Tires, Tires"
  },
  {
   "id": "366.05.201.0",
@@ -536,7 +536,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Vitória",
   "campo": "Campo do Vitória",
-  "mapa": "Campo do Vitória, Lisboa"
+  "mapa": "Vitória Clube de Lisboa, Lisboa"
  },
  {
   "id": "366.10.212.0",
@@ -547,7 +547,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Leões Porto Salvo \"B\"",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.05.210.0",
@@ -558,7 +558,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Sporting \"B\"",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.10.220.0",
@@ -569,7 +569,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "ASS Torre \"A\"",
   "campo": "Campo Alfredo Pinheiro-BºTorre",
-  "mapa": "Campo Alfredo Pinheiro, Bairro da Torre, Cascais"
+  "mapa": "AFD Torre - Campo Alfredo Pinheiro, Cascais"
  },
  {
   "id": "366.10.229.0",
@@ -580,7 +580,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Malveira Serra",
   "campo": "Campo do Outeiro (Carenque)",
-  "mapa": "Campo do Outeiro, Carenque, Amadora"
+  "mapa": "Campo Desportivo do Carenque"
  },
  {
   "id": "366.05.227.0",
@@ -591,7 +591,7 @@ window.JOGOS = [
   "emCasa": true,
   "adversario": "Caneças \"B\"",
   "campo": "Campo das Salésias (Restelo)",
-  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
+  "mapa": "Campo das Salésias, Rua Matateu, Lisboa"
  },
  {
   "id": "366.05.235.0",
@@ -602,7 +602,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Palmense \"B\"",
   "campo": "Campo José Ramos",
-  "mapa": "Campo José Ramos, Sport Futebol Palmense, Rua Afonso Botelho, Lisboa"
+  "mapa": "Campo José Ramos do Sport Futebol Palmense, Lisboa"
  },
  {
   "id": "366.10.237.0",
@@ -613,6 +613,6 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Carcavelos",
   "campo": "Campo Quinta Nova, Nº 2",
-  "mapa": "Campo Quinta Nova, Carcavelos, Cascais"
+  "mapa": "Futebol Carcavelos, Carcavelos"
  }
 ];
