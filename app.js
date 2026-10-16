@@ -4,7 +4,7 @@
 const JOGO_MIN = 90;
 const CHAVE = "convocados-v1";   // localStorage: { idJogo: true }
 const CHAVE_DEF = "definicoes-v1"; // localStorage: viagem e antecedência de cada utilizador
-const PADRAO = { configurado: false, modo: "estimativa", ajuste: 0, fixo: 45, antecedencia: 60 };
+const PADRAO = { configurado: false, modo: "estimativa", fixo: 45, antecedencia: 60 };
 
 const $ = (id) => document.getElementById(id);
 const pad = (n) => String(n).padStart(2, "0");
@@ -50,10 +50,10 @@ let estado = lerEstado();
 
 // ---------- Calendário ----------
 const somaMin = (d, m) => new Date(d.getTime() + m * 60000);
-// Minutos de viagem (ida; o regresso é igual): estimativa do campo + ajuste, ou tempo fixo
+// Minutos de viagem (ida; o regresso é igual): estimativa do campo, ou o tempo fixo escolhido
 function viagemMin(g) {
   const est = (window.VIAGEM || {})[g.campo];
-  if (def.modo === "estimativa" && est != null) return Math.max(0, est + def.ajuste);
+  if (def.modo === "estimativa" && est != null) return est;
   return def.fixo;
 }
 const inicioEvento = (g) => somaMin(g.d, -(viagemMin(g) + def.antecedencia));
@@ -83,11 +83,8 @@ function conv(g) { return !!estado[g.id]; }
 
 function textoViagem(g) {
   const est = (window.VIAGEM || {})[g.campo];
-  if (def.modo === "estimativa" && est != null) {
-    const extra = def.ajuste ? ` (carro ${est} min ${def.ajuste > 0 ? "+" : "−"} ajuste ${Math.abs(def.ajuste)} min)` : " de carro";
-    return `Viagem ≈ ${viagemMin(g)} min${extra}, a partir do ponto de partida do grupo`;
-  }
-  return `Viagem ${viagemMin(g)} min (definida por si)`;
+  if (def.modo === "estimativa" && est != null) return `Viagem ≈ ${est} min de carro, a partir do ponto de partida do grupo`;
+  return `Viagem ${viagemMin(g)} min (tempo definido por si)`;
 }
 
 function cartao(g) {
@@ -191,7 +188,6 @@ function abrirDefinicoes(g) {
   jogoPendente = g || null;
   $("def-modo-est").checked = def.modo === "estimativa";
   $("def-modo-fixo").checked = def.modo === "fixo";
-  $("def-ajuste").value = def.ajuste;
   $("def-fixo").value = def.fixo;
   $("def-antec").value = def.antecedencia;
   $("def-continuar").textContent = g ? "Guardar e adicionar ao calendário" : "Guardar";
@@ -212,8 +208,7 @@ if ($("def-form")) { // tolera uma página guardada em memória sem o painel de 
     def = {
       configurado: true,
       modo: $("def-modo-fixo").checked ? "fixo" : "estimativa",
-      ajuste: inteiro("def-ajuste", -30, 60, 0),
-      fixo: inteiro("def-fixo", 0, 180, 45),
+        fixo: inteiro("def-fixo", 0, 180, 45),
       antecedencia: inteiro("def-antec", 0, 180, 60),
     };
     gravarDefinicoes(def);
