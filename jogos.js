@@ -7,7 +7,8 @@ window.JOGOS = [
   "inicio": "2026-10-17T09:00",
   "emCasa": false,
   "adversario": "3F",
-  "campo": "Campo Parque Jogos S J Brito"
+  "campo": "Campo Parque Jogos S J Brito",
+  "mapa": "Parque de Jogos São João de Brito, Avenida do Brasil, Lisboa"
  },
  {
   "id": "366.10.003.0",
@@ -17,7 +18,8 @@ window.JOGOS = [
   "inicio": "2026-10-17T10:30",
   "emCasa": false,
   "adversario": "Salesianos Estoril",
-  "campo": "Estádio Domingos Sávio | Estoril"
+  "campo": "Estádio Domingos Sávio | Estoril",
+  "mapa": "Estádio Domingos Sávio, Rua de São Domingos Sávio, Estoril, Cascais"
  },
  {
   "id": "366.05.013.0",
@@ -27,7 +29,8 @@ window.JOGOS = [
   "inicio": "2026-10-24T09:00",
   "emCasa": true,
   "adversario": "Santa Maria \"B\"",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.10.018.0",
@@ -37,7 +40,8 @@ window.JOGOS = [
   "inicio": "2026-10-31T09:00",
   "emCasa": false,
   "adversario": "Cascais",
-  "campo": "Estádio Municipal Dramático Cascais"
+  "campo": "Estádio Municipal Dramático Cascais",
+  "mapa": "Estádio Municipal Dramático de Cascais, Avenida Doutor Manuel Ricardo Espírito Santo, Cascais"
  },
  {
   "id": "366.05.020.0",
@@ -47,7 +51,8 @@ window.JOGOS = [
   "inicio": "2026-10-31T10:30",
   "emCasa": false,
   "adversario": "Cultural \"B\"",
-  "campo": "Academia Jogador - Campo 1"
+  "campo": "Academia Jogador - Campo 1",
+  "mapa": "Academia Jogador, Odivelas"
  },
  {
   "id": "366.05.028.0",
@@ -57,7 +62,8 @@ window.JOGOS = [
   "inicio": "2026-11-07T09:00",
   "emCasa": true,
   "adversario": "Tenente Valdez \"B\"",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.10.026.0",
@@ -67,7 +73,8 @@ window.JOGOS = [
   "inicio": "2026-11-07T12:00",
   "emCasa": true,
   "adversario": "Estoril AC \"A\"",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.05.035.0",
@@ -77,7 +84,8 @@ window.JOGOS = [
   "inicio": "2026-11-14T10:30",
   "emCasa": false,
   "adversario": "Alta Lisboa \"B\"",
-  "campo": "Complexo Desportivo Alto Lumiar - Campo 1"
+  "campo": "Complexo Desportivo Alto Lumiar - Campo 1",
+  "mapa": "Complexo Desportivo do Alto do Lumiar, Lisboa"
  },
  {
   "id": "366.10.033.0",
@@ -87,7 +95,8 @@ window.JOGOS = [
   "inicio": "2026-11-14T11:00",
   "emCasa": false,
   "adversario": "CD Marista",
-  "campo": "Campo Colégio Marista"
+  "campo": "Campo Colégio Marista",
+  "mapa": "Colégio Marista de Carcavelos, Avenida dos Maristas, Carcavelos"
  },
  {
   "id": "366.05.043.0",
@@ -97,7 +106,8 @@ window.JOGOS = [
   "inicio": "2026-11-21T09:00",
   "emCasa": true,
   "adversario": "Estrelas SJB",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.10.041.0",
@@ -107,7 +117,8 @@ window.JOGOS = [
   "inicio": "2026-11-21T12:00",
   "emCasa": true,
   "adversario": "Sport Túlias",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.05.050.0",
@@ -117,7 +128,8 @@ window.JOGOS = [
   "inicio": "2026-11-28T10:30",
   "emCasa": false,
   "adversario": "Col. S. J. Brito",
-  "campo": "Campo Colégio São João de Brito"
+  "campo": "Campo Colégio São João de Brito",
+  "mapa": "Colégio de São João de Brito, Estrada da Torre, Lumiar, Lisboa"
  },
  {
   "id": "366.10.049.0",
@@ -127,7 +139,8 @@ window.JOGOS = [
   "inicio": "2026-11-28T12:00",
   "emCasa": true,
   "adversario": "Estoril Praia \"A\"",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.10.058.0",
@@ -137,7 +150,8 @@ window.JOGOS = [
   "inicio": "2026-12-05T09:00",
   "emCasa": false,
   "adversario": "Fontainhas",
-  "campo": "Campo Abel Viegas Lopes (Fontainhas)"
+  "campo": "Campo Abel Viegas Lopes (Fontainhas)",
+  "mapa": "Campo Abel Viegas Lopes, Fontainhas, Cascais"
  },
  {
   "id": "366.05.058.0",
@@ -147,7 +161,8 @@ window.JOGOS = [
   "inicio": "2026-12-05T09:00",
   "emCasa": true,
   "adversario": "Despertar",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.05.065.0",
@@ -157,7 +172,8 @@ window.JOGOS = [
   "inicio": "2026-12-12T10:30",
   "emCasa": false,
   "adversario": "Benfica \"B\"",
-  "campo": "Campo Nº2 Estádio Francisco Lázaro"
+  "campo": "Campo Nº2 Estádio Francisco Lázaro",
+  "mapa": "Estádio Francisco Lázaro, Rua Doutor Cunha Seixas, Benfica, Lisboa"
  },
  {
   "id": "366.10.066.0",
@@ -167,7 +183,8 @@ window.JOGOS = [
   "inicio": "2026-12-12T12:00",
   "emCasa": true,
   "adversario": "Academia Alcoitão \"A\"",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.10.075.0",
@@ -177,7 +194,8 @@ window.JOGOS = [
   "inicio": "2026-12-19T10:30",
   "emCasa": false,
   "adversario": "Talaide",
-  "campo": "Campo Fernando Sabido"
+  "campo": "Campo Fernando Sabido",
+  "mapa": "Campo Fernando Sabido, Talaíde, São Domingos de Rana"
  },
  {
   "id": "366.05.073.0",
@@ -187,7 +205,8 @@ window.JOGOS = [
   "inicio": "2026-12-19T10:30",
   "emCasa": true,
   "adversario": "EFSDB \"B\"",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.05.081.0",
@@ -197,7 +216,8 @@ window.JOGOS = [
   "inicio": "2027-01-09T10:30",
   "emCasa": true,
   "adversario": "Vitória",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.10.083.0",
@@ -207,7 +227,8 @@ window.JOGOS = [
   "inicio": "2027-01-09T12:00",
   "emCasa": true,
   "adversario": "Tires",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.10.092.0",
@@ -217,7 +238,8 @@ window.JOGOS = [
   "inicio": "2027-01-16T10:30",
   "emCasa": false,
   "adversario": "Leões Porto Salvo \"B\"",
-  "campo": "Campo de Futebol da Laje"
+  "campo": "Campo de Futebol da Laje",
+  "mapa": "Campo de Futebol da Laje, Porto Salvo, Oeiras"
  },
  {
   "id": "366.05.090.0",
@@ -227,7 +249,8 @@ window.JOGOS = [
   "inicio": "2027-01-16T10:30",
   "emCasa": false,
   "adversario": "Sporting \"B\"",
-  "campo": "Estádio Universitário de Lisboa (Campo 6)"
+  "campo": "Estádio Universitário de Lisboa (Campo 6)",
+  "mapa": "Estádio Universitário de Lisboa, Avenida General Norton de Matos, Lisboa"
  },
  {
   "id": "366.10.100.0",
@@ -237,7 +260,8 @@ window.JOGOS = [
   "inicio": "2027-01-23T12:00",
   "emCasa": true,
   "adversario": "ASS Torre \"A\"",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.10.109.0",
@@ -247,7 +271,8 @@ window.JOGOS = [
   "inicio": "2027-01-30T10:00",
   "emCasa": false,
   "adversario": "Malveira Serra",
-  "campo": "Campo 22 de Março"
+  "campo": "Campo 22 de Março",
+  "mapa": "Campo 22 de Março, Malveira da Serra, Cascais"
  },
  {
   "id": "366.05.107.0",
@@ -257,7 +282,8 @@ window.JOGOS = [
   "inicio": "2027-01-30T10:30",
   "emCasa": false,
   "adversario": "Caneças \"B\"",
-  "campo": "Campo Da Lapa"
+  "campo": "Campo Da Lapa",
+  "mapa": "Campo da Lapa, Rua do Campo da Bola, Caneças, Odivelas"
  },
  {
   "id": "366.05.115.0",
@@ -267,7 +293,8 @@ window.JOGOS = [
   "inicio": "2027-02-06T09:00",
   "emCasa": true,
   "adversario": "Palmense \"B\"",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.10.117.0",
@@ -277,7 +304,8 @@ window.JOGOS = [
   "inicio": "2027-02-06T10:30",
   "emCasa": true,
   "adversario": "Carcavelos",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.05.125.0",
@@ -287,7 +315,8 @@ window.JOGOS = [
   "inicio": "2027-02-13T09:00",
   "emCasa": true,
   "adversario": "3F",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.10.123.0",
@@ -297,7 +326,8 @@ window.JOGOS = [
   "inicio": "2027-02-13T12:00",
   "emCasa": true,
   "adversario": "Salesianos Estoril",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.05.133.0",
@@ -307,7 +337,8 @@ window.JOGOS = [
   "inicio": "2027-02-20T09:00",
   "emCasa": false,
   "adversario": "Santa Maria \"B\"",
-  "campo": "Complexo Lúdico União D. R. Santa Maria"
+  "campo": "Complexo Lúdico União D. R. Santa Maria",
+  "mapa": "Complexo Lúdico União D. R. Santa Maria, Odivelas"
  },
  {
   "id": "366.05.140.0",
@@ -317,7 +348,8 @@ window.JOGOS = [
   "inicio": "2027-02-27T09:00",
   "emCasa": true,
   "adversario": "Cultural \"B\"",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.10.138.0",
@@ -327,7 +359,8 @@ window.JOGOS = [
   "inicio": "2027-02-27T12:00",
   "emCasa": true,
   "adversario": "Cascais",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.10.146.0",
@@ -337,7 +370,8 @@ window.JOGOS = [
   "inicio": "2027-03-06T10:30",
   "emCasa": false,
   "adversario": "Estoril AC \"A\"",
-  "campo": "Campo Estoril AC (R. Vale Sta. Rita)"
+  "campo": "Campo Estoril AC (R. Vale Sta. Rita)",
+  "mapa": "Estoril Atlético Clube, Largo Amália Rodrigues, Estoril"
  },
  {
   "id": "366.05.148.0",
@@ -347,7 +381,8 @@ window.JOGOS = [
   "inicio": "2027-03-06T11:00",
   "emCasa": false,
   "adversario": "Tenente Valdez \"B\"",
-  "campo": "Parque Jogos Cer Tenente Valdez"
+  "campo": "Parque Jogos Cer Tenente Valdez",
+  "mapa": "Parque de Jogos CER Tenente Valdez, Paia, Odivelas"
  },
  {
   "id": "366.05.155.0",
@@ -357,7 +392,8 @@ window.JOGOS = [
   "inicio": "2027-03-13T09:00",
   "emCasa": true,
   "adversario": "Alta Lisboa \"B\"",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.10.153.0",
@@ -367,7 +403,8 @@ window.JOGOS = [
   "inicio": "2027-03-13T10:30",
   "emCasa": true,
   "adversario": "CD Marista",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.10.161.0",
@@ -377,7 +414,8 @@ window.JOGOS = [
   "inicio": "2027-03-20T09:00",
   "emCasa": false,
   "adversario": "Sport Túlias",
-  "campo": "Complexo Desportivo da Abóboda"
+  "campo": "Complexo Desportivo da Abóboda",
+  "mapa": "Complexo Desportivo da Abóboda, São Domingos de Rana, Cascais"
  },
  {
   "id": "366.05.163.0",
@@ -387,7 +425,8 @@ window.JOGOS = [
   "inicio": "2027-03-20T10:45",
   "emCasa": false,
   "adversario": "Estrelas SJB",
-  "campo": "Campo Estrelas S J Brito"
+  "campo": "Campo Estrelas S J Brito",
+  "mapa": "Escola Básica de São João de Brito, Rua Lopes de Mendonça, Lisboa"
  },
  {
   "id": "366.10.169.0",
@@ -397,7 +436,8 @@ window.JOGOS = [
   "inicio": "2027-04-03T10:30",
   "emCasa": false,
   "adversario": "Estoril Praia \"A\"",
-  "campo": "Centro de Treino de Formação Desportiva N3"
+  "campo": "Centro de Treino de Formação Desportiva N3",
+  "mapa": "Centro de Treino de Formação Desportiva, Estoril, Cascais"
  },
  {
   "id": "366.05.170.0",
@@ -407,7 +447,8 @@ window.JOGOS = [
   "inicio": "2027-04-03T10:30",
   "emCasa": true,
   "adversario": "Col. S. J. Brito",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.05.178.0",
@@ -417,7 +458,8 @@ window.JOGOS = [
   "inicio": "2027-04-10T09:00",
   "emCasa": false,
   "adversario": "Despertar",
-  "campo": "Campo Parque Urbano 25 Abril"
+  "campo": "Campo Parque Urbano 25 Abril",
+  "mapa": "Parque Urbano 25 de Abril, Casal de Cambra, Sintra"
  },
  {
   "id": "366.10.178.0",
@@ -427,7 +469,8 @@ window.JOGOS = [
   "inicio": "2027-04-10T12:00",
   "emCasa": true,
   "adversario": "Fontainhas",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.05.185.0",
@@ -437,7 +480,8 @@ window.JOGOS = [
   "inicio": "2027-04-17T09:00",
   "emCasa": true,
   "adversario": "Benfica \"B\"",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.10.186.0",
@@ -447,7 +491,8 @@ window.JOGOS = [
   "inicio": "2027-04-17T12:00",
   "emCasa": false,
   "adversario": "Academia Alcoitão \"A\"",
-  "campo": "Campo do \"Decathlon Cascais\""
+  "campo": "Campo do \"Decathlon Cascais\"",
+  "mapa": "Decathlon Cascais, Avenida Brigadeiro Victor Novais Gonçalves, Alcabideche"
  },
  {
   "id": "366.05.193.0",
@@ -457,7 +502,8 @@ window.JOGOS = [
   "inicio": "2027-04-24T09:00",
   "emCasa": false,
   "adversario": "EFSDB \"B\"",
-  "campo": "Complexo Desportivo Bairro Boavista"
+  "campo": "Complexo Desportivo Bairro Boavista",
+  "mapa": "Complexo Desportivo do Bairro da Boavista, Monsanto, Lisboa"
  },
  {
   "id": "366.10.195.0",
@@ -467,7 +513,8 @@ window.JOGOS = [
   "inicio": "2027-04-24T12:00",
   "emCasa": true,
   "adversario": "Talaide",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.10.203.0",
@@ -477,7 +524,8 @@ window.JOGOS = [
   "inicio": "2027-05-01T09:30",
   "emCasa": false,
   "adversario": "Tires",
-  "campo": "Campo de Futebol José Rodrigues"
+  "campo": "Campo de Futebol José Rodrigues",
+  "mapa": "Campo de Futebol José Rodrigues, Tires, Cascais"
  },
  {
   "id": "366.05.201.0",
@@ -487,7 +535,8 @@ window.JOGOS = [
   "inicio": "2027-05-01T10:00",
   "emCasa": false,
   "adversario": "Vitória",
-  "campo": "Campo do Vitória"
+  "campo": "Campo do Vitória",
+  "mapa": "Campo do Vitória, Lisboa"
  },
  {
   "id": "366.10.212.0",
@@ -497,7 +546,8 @@ window.JOGOS = [
   "inicio": "2027-05-08T09:00",
   "emCasa": true,
   "adversario": "Leões Porto Salvo \"B\"",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.05.210.0",
@@ -507,7 +557,8 @@ window.JOGOS = [
   "inicio": "2027-05-08T09:00",
   "emCasa": true,
   "adversario": "Sporting \"B\"",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.10.220.0",
@@ -517,7 +568,8 @@ window.JOGOS = [
   "inicio": "2027-05-15T10:30",
   "emCasa": false,
   "adversario": "ASS Torre \"A\"",
-  "campo": "Campo Alfredo Pinheiro-BºTorre"
+  "campo": "Campo Alfredo Pinheiro-BºTorre",
+  "mapa": "Campo Alfredo Pinheiro, Bairro da Torre, Cascais"
  },
  {
   "id": "366.10.229.0",
@@ -527,7 +579,8 @@ window.JOGOS = [
   "inicio": "2027-05-22T09:00",
   "emCasa": true,
   "adversario": "Malveira Serra",
-  "campo": "Campo do Outeiro (Carenque)"
+  "campo": "Campo do Outeiro (Carenque)",
+  "mapa": "Campo do Outeiro, Carenque, Amadora"
  },
  {
   "id": "366.05.227.0",
@@ -537,7 +590,8 @@ window.JOGOS = [
   "inicio": "2027-05-22T09:00",
   "emCasa": true,
   "adversario": "Caneças \"B\"",
-  "campo": "Campo das Salésias (Restelo)"
+  "campo": "Campo das Salésias (Restelo)",
+  "mapa": "Campo das Salésias, Rua Matateu, Ajuda, Lisboa"
  },
  {
   "id": "366.05.235.0",
@@ -547,7 +601,8 @@ window.JOGOS = [
   "inicio": "2027-05-29T09:30",
   "emCasa": false,
   "adversario": "Palmense \"B\"",
-  "campo": "Campo José Ramos"
+  "campo": "Campo José Ramos",
+  "mapa": "Campo José Ramos, Sport Futebol Palmense, Rua Afonso Botelho, Lisboa"
  },
  {
   "id": "366.10.237.0",
@@ -557,6 +612,7 @@ window.JOGOS = [
   "inicio": "2027-05-29T10:00",
   "emCasa": false,
   "adversario": "Carcavelos",
-  "campo": "Campo Quinta Nova, Nº 2"
+  "campo": "Campo Quinta Nova, Nº 2",
+  "mapa": "Campo Quinta Nova, Carcavelos, Cascais"
  }
 ];

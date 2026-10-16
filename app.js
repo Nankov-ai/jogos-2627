@@ -72,11 +72,11 @@ function detalhes(g) {
 function linkGoogle(g) {
   const p = new URLSearchParams({
     action: "TEMPLATE", text: titulo(g), dates: `${stamp(inicioEvento(g))}/${stamp(fimEvento(g))}`,
-    ctz: "Europe/Lisbon", location: g.campo, details: detalhes(g),
+    ctz: "Europe/Lisbon", location: g.mapa, details: detalhes(g),
   });
   return "https://calendar.google.com/calendar/render?" + p.toString();
 }
-const linkMapa = (g) => "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(g.campo);
+const linkMapa = (g) => "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(g.mapa);
 
 // ---------- Interface ----------
 function conv(g) { return !!estado[g.id]; }
