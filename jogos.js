@@ -19,7 +19,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Salesianos Estoril",
   "campo": "Estádio Domingos Sávio | Estoril",
-  "mapa": "Salesianos do Estoril, Estoril"
+  "mapa": "Campo de Futebol dos Salesianos do Estoril, Estoril"
  },
  {
   "id": "366.05.013.0",
@@ -96,7 +96,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "CD Marista",
   "campo": "Campo Colégio Marista",
-  "mapa": "Colégio Marista de Carcavelos"
+  "mapa": "Estádio Maristas Calderón, Carcavelos"
  },
  {
   "id": "366.05.043.0",
@@ -426,7 +426,7 @@ window.JOGOS = [
   "emCasa": false,
   "adversario": "Estrelas SJB",
   "campo": "Campo Estrelas S J Brito",
-  "mapa": "Escola Básica São João de Brito, Lisboa"
+  "mapa": "Campo Estrelas São João Brito, Lisboa"
  },
  {
   "id": "366.10.169.0",
